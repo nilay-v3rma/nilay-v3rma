@@ -8,5 +8,3 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on cpp projects
 - 👯 I’m looking to collaborate on open source developement
 -->
-- 🔭 I’m currently working on cpp projects
-- 👯 I’m looking to collaborate on open source developement
